@@ -1,3 +1,5 @@
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">BecaGIS</h3>
